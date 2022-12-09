@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Autor: Rodrigo (Seth) de Freitas <rodrigo.freitas33@etec.sp.gov.br>
+Autor: Rodrigo (Seth) de Freitas <rodcesar.freitas@gmail.com>
 Contribuidor: Bruno (Guntz) Gasparetto <brunogasparetto@gmail.com>
 Data: 13/01/2016
 Versão: 0.0.2
